@@ -1,0 +1,21 @@
+Static Array and Dynamic array 
+-> Array is collection of elements in which continous elements are stored .
+-> Elements are stored in continous manner.
+Indexing of Array : 
+
+Static Array :
+-> Fix size 
+-> Memory allocated once
+-> Faster performance
+-> int[] arr = new int[10];
+
+Dynamic array :
+-> Size can grow or shrink
+-> Reallocated when needed
+-> Slightly slower due to resizing 
+-> ArrayList<integer> list = new Arraylist<>();
+
+How to take input : using scanner class
+import java.util.scanner*;
+
+Prefix sum and Suffix sum 

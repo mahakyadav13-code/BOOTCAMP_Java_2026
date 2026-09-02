@@ -1,0 +1,36 @@
+package Day8;
+
+public class Insert at first {
+
+    static class Node {
+        int data;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+        }
+    }
+    public static void main(String[] args) {
+
+        Node head = new Node(10);
+
+        head.next = new Node(20);
+        head.next.next = new Node(30);
+
+        // New node to insert
+        Node newNode = new Node(5);
+
+        // Insert at first
+        newNode.next = head;
+        head = newNode;
+
+        // Traverse
+        Node current = head;
+
+        while (current != null) {
+            System.out.print(current.data + " ");
+            current = current.next;
+        }
+    }
+}
