@@ -29,3 +29,43 @@ BOOTCAMP_Java_2026/
 ├── Day 18/
 │
 └── README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+<!---LeetCode Topics End-->
