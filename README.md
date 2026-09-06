@@ -89,6 +89,7 @@ BOOTCAMP_Java_2026/
 | [0550-game-play-analysis-iv](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0619-biggest-single-number) |
+| [1045-customers-who-bought-all-products](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1141-user-activity-for-the-past-30-days-i) |
