@@ -81,5 +81,6 @@ BOOTCAMP_Java_2026/
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
