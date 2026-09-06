@@ -40,6 +40,7 @@ BOOTCAMP_Java_2026/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
@@ -77,4 +78,8 @@ BOOTCAMP_Java_2026/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
