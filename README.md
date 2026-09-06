@@ -35,6 +35,7 @@ BOOTCAMP_Java_2026/
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -68,4 +69,12 @@ BOOTCAMP_Java_2026/
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
