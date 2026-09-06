@@ -83,4 +83,8 @@ BOOTCAMP_Java_2026/
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0115-distinct-subsequences) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
