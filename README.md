@@ -87,6 +87,7 @@ BOOTCAMP_Java_2026/
 |  |
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/0550-game-play-analysis-iv) |
+| [1070-product-sales-analysis-iii](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/mahakyadav13-code/BOOTCAMP_Java_2026/tree/master/1174-immediate-food-delivery-ii) |
